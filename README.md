@@ -1,2 +1,2 @@
 # Supervised_ML_Model_Implementation
-Basic implementation of Regression and Classification models on various datasets
+Basic implementation of Clustering, Regression and Classification algorithms on various datasets
